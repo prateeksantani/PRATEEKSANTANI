@@ -1,6 +1,6 @@
 <h1 align="center">Hola Amigo👋I'm Prateek Santani!</h1>
 <h3 align="center">Professional Fullstack Developer majorly skilled in React, JavaScript, Bootstrap,Java and Spring having a strong problem solving skill with Bachelor of Engineering focused in Computer and Communication Engineering</h3>
-<img align ="center" alt = "CodingImg" width = "400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align ="center" alt = "CodingImg" width = "900" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prateeksantani" alt="prateeksantani" /></a> </p>
 
