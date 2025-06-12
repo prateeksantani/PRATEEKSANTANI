@@ -4,9 +4,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prateeksantani" alt="prateeksantani" /></a> </p>
 
-- 📫 How to reach me **prateeksantani98@gmail.com**
+## 📬 Contact Me
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1n3XnbhTkv1J0LN0Vf9wZnk_rDs0j3VHG/view?usp=sharing](https://drive.google.com/file/d/1n3XnbhTkv1J0LN0Vf9wZnk_rDs0j3VHG/view?usp=sharing)
+- 📫 **Email:** [prateeksantani98@gmail.com](mailto:prateeksantani98@gmail.com)  
+- 🌐 **Portfolio:** [www.prateeksantani.tech](https://www.prateeksantani.tech/)  
+- 📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1swwNwTbAY4OVE-NX8WxFppjYZ_rPd8aq/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
